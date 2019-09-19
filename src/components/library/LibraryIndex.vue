@@ -32,5 +32,9 @@ export default {
 </script>
 
 <style scoped>
-
+  .books-area{
+    width: 990px;
+    margin-left: auto;
+    margin-right: auto;
+  }
 </style>
